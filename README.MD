@@ -19,7 +19,7 @@
 ### Gradle
 Add the following dependency to your `build.gradle` file:
 ```groovy
-implementation 'com.justme8code:trylite:1.0'
+implementation 'com.justme8code:trylite:1.0.0'
 ```
 
 ### Maven
@@ -28,7 +28,7 @@ Add this dependency to your `pom.xml`:
 <dependency>
     <groupId>com.justme8code</groupId>
     <artifactId>trylite</artifactId>
-    <version>1.0</version>
+    <version>1.0.0</version>
 </dependency>
 ```
 
